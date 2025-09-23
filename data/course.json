@@ -1,0 +1,65 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Human-Computer Interfaces"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ],
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ]
+  ],
+  "legacy_uid": "5b9c58c9-b087-d9f1-0d31-211766da6a59",
+  "instructors": {
+    "content": [
+      "61e38497-b61c-cc90-0027-250b2b331b07",
+      "5b92b5cd-4c83-38a6-da2f-9ae89a5bfc74",
+      "15d1367e-048a-c7ec-bca7-663806f9679a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f3c950c0-5890-9aa1-cceb-afdf1909a27e",
+    "website": "6-811-principles-and-practice-of-assistive-technology-fall-2014"
+  },
+  "course_title": "Principles and Practice of Assistive Technology",
+  "course_description": "6.811: Principles and Practice of Assistive Technology (PPAT) is an interdisciplinary, project-based course, centered around a design project in which small teams of students work closely with a person with a disability in the Cambridge area to design a device, piece of equipment, app, or other solution that helps them live more independently.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.811",
+  "course_image_thumbnail": {
+    "content": "4c672d82-39b1-6537-d1da-33cb102d0f22",
+    "website": "6-811-principles-and-practice-of-assistive-technology-fall-2014"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples",
+    "Demonstration Videos",
+    "Activity Assignments with Examples",
+    "Media Assignments with Examples",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "7d4b6754-a2ed-48b4-b10b-8f6bbc9504d1",
+  "site_short_id": "6.811-fall-2014",
+  "site_url_path": "courses/6-811-principles-and-practice-of-assistive-technology-fall-2014",
+  "title": "Course Metadata"
+}

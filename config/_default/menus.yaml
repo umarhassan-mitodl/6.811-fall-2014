@@ -1,0 +1,44 @@
+leftnav:
+- identifier: 4b44c62b-66d6-9cc8-1ce8-9851dc8aeb60
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b74ff70e-440a-a298-254e-5c9945a55864
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 93006bd3-39e1-f7b8-55d5-4958641b37da
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 469cf897-5e27-7bb5-2f3b-9eb8ea13a8c1
+  name: Meet the Educators
+  pageRef: /pages/instructor-insights/meet-the-educators
+  parent: 93006bd3-39e1-f7b8-55d5-4958641b37da
+  weight: 40
+- identifier: 8f938bf0-7fe9-93c6-9fb8-0d9da6fb078e
+  name: Video Playlist
+  pageRef: /pages/instructor-insights/video-playlist
+  parent: 93006bd3-39e1-f7b8-55d5-4958641b37da
+  weight: 50
+- identifier: 0f23b97e-2d88-8c3f-34df-21498de5a271
+  name: Student Insights
+  pageRef: /pages/instructor-insights/student-insights
+  parent: 93006bd3-39e1-f7b8-55d5-4958641b37da
+  weight: 60
+- identifier: 2569b1b4-1a4a-4335-1643-b293b3967e1f
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 70
+- identifier: 2269be47-17d4-6269-e259-e7cb81d7af43
+  name: Labs
+  pageRef: /pages/labs
+  weight: 80
+- identifier: dfaf2dab-a9b3-0da0-8de2-5636cc6d1702
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 90
+- identifier: 3798bd16-b664-2b78-3ef9-d6a60599afc2
+  name: Presentations
+  pageRef: /pages/presentations
+  weight: 100
