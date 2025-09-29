@@ -5,6 +5,8 @@ description: Transcript of a video providing instructor insights on the history 
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/8ccc1eda762315871574c5e349584565_DbUa8w0W74.pdf
 file_size: 15201
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -5,6 +5,8 @@ description: Assignment to organize findings about a client, using the framework
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/f96edeeaeff5e358cbc2717b94fe31af_MIT6_811F14_CntextulInqry.pdf
 file_size: 105880
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

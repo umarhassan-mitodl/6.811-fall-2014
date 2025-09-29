@@ -5,6 +5,8 @@ description: Lecture presentation on etiquette for interacting with people, and 
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/3e2459c189d2d4ca4371973a6d60d349_MIT6_811F14_Communicating.pdf
 file_size: 1008816
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

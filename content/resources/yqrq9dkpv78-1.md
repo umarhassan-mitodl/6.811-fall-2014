@@ -6,6 +6,8 @@ description: Transcript of a video. In this video the instructors introduce them
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/b5863191597a8116ee39a434a38586fc_yqrQ9dKPV78.pdf
 file_size: 16068
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

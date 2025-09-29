@@ -4,6 +4,8 @@ description: Photograph of the space used for lab sessions of the course.
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/adcff9b1d6d6f6bd441286f53a62bb08_6-811_classroom-2.JPG
 file_size: 57781
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

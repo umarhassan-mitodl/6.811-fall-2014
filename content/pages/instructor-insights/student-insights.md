@@ -2,6 +2,8 @@
 content_type: page
 description: In these videos, students share insights about their experiences in 6.811
   Principles and Practice of Assistive Technology.
+hide_download: true
+hide_download_original: null
 is_media_gallery: true
 layout: instructor_insights
 learning_resource_types: []

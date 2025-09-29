@@ -2,6 +2,8 @@
 content_type: page
 description: In this video the instructors introduce themselves and share how their
   interests and experiences led them to become involved with the course.
+hide_download: true
+hide_download_original: null
 is_media_gallery: true
 layout: instructor_insights
 learning_resource_types: []

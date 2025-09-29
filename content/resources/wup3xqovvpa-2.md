@@ -5,6 +5,8 @@ description: Subtitle file for a video offering instructor insights on choosing 
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/6f47d822e2765c76b1c0420124f0cb44_Wup3xqOvvpA.vtt
 file_size: 12500
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
