@@ -58,7 +58,7 @@ Permission of instructor
 
 ### Requirements Satisfied
 
-6.811 satisfies one of two [Advanced Undergraduate Study](https://catalog.mit.edu/degree-charts/eecs-subject-groupings/#advancetext) requirements, and one lab requirement in the [Department of Electrical Engineering and Computer Science](http://www.eecs.mit.edu/).
+6.811 satisfies one of two {{% resource_link "fcbe1c53-1dcf-42b1-bab9-d0b5abd7977c" "Advanced Undergraduate Study" %}} requirements, and one lab requirement in the {{% resource_link "9ae75b5d-3a30-4f28-9333-56eaf662d771" "Department of Electrical Engineering and Computer Science" %}}.
 
 ### Offered
 
