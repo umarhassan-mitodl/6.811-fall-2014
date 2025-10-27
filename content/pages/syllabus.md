@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, goals, course components, projects, grading, lectures
   and lab expectations, and an optional textbook for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -155,4 +153,4 @@ This year, we aim to have lively discussions, debates, and other activities abou
 Textbook (Optional)
 -------------------
 
-Cook, Albert M., and Jan Miller Polgar. _Cook & Hussey's Assistive Technologies: Principles and Practice_. 3rd ed. Mosby Elsevier, 2007. ISBN: 9780323039079. \[Preview with [Google Books](http://books.google.com/books?id=FZ1sAAAAQBAJ&pg=PAfrontcover)\]
+Cook, Albert M., and Jan Miller Polgar. _Cook & Hussey's Assistive Technologies: Principles and Practice_. 3rd ed. Mosby Elsevier, 2007. ISBN: 9780323039079. \[Preview with {{% resource_link "923e9ec1-7316-4ee8-a0c3-2b6782d61800" "Google Books" %}}\]

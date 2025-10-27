@@ -5,8 +5,6 @@ description: Subtitle file for a video of an instructor interview on making lear
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/38f353ae014ca45484c31ffbdff37e1d_0IF8oBg_Zd8.srt
 file_size: 5179
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

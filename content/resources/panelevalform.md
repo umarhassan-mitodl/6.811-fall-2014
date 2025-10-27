@@ -5,8 +5,6 @@ description: "Evaluation form used by guest panelists to assess students\u2019 m
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/38258428b96a5ce3e4a69f9f8f26d801_PanelEvalForm.pdf
 file_size: 100428
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

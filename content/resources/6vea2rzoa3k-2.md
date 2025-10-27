@@ -6,8 +6,6 @@ description: Subtitle file for a video. In this video students share insights ab
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/026dacf5a0ce5919a2a158f713024203_6Vea2rZOA3k.vtt
 file_size: 12804
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

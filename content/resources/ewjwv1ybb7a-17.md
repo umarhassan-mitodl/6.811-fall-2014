@@ -5,8 +5,6 @@ description: Video transcript of a mid-semester presentation on a team project t
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/3f655642bb9dd91f063ba0915249fbc0_EWjWv1YBB7A.pdf
 file_size: 244202
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

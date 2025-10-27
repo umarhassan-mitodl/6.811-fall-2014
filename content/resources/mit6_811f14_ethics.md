@@ -5,8 +5,6 @@ description: Lecture presentation on the ethics of human subject research, the h
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/5c9b5bf95c79ed9eb73b97a4a88816e6_MIT6_811F14_Ethics.pdf
 file_size: 666132
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

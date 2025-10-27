@@ -4,8 +4,6 @@ description: Subtitle file for a video on the role of student mentors for the co
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/e1d7a794ae56c010930bc20d40db4cdc_K67ojX4-PL8.srt
 file_size: 1752
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

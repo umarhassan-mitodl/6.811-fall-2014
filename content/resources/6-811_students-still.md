@@ -5,8 +5,6 @@ description: Still image from a video in which students share insights about the
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/3d2f2a660c1caf5fca7d829f7e9e7a9f_6-811_students-still.jpg
 file_size: 57165
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

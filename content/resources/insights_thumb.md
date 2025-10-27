@@ -5,8 +5,6 @@ description: Still image from a video in which William Li and Grace Teo describe
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/85dc902eb0a7f29e4a5d2adf42ba0cea_insights_thumb.jpg
 file_size: 15330
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

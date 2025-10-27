@@ -5,8 +5,6 @@ description: Assessment guide used by clients to provide students with feedback 
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/77aab7d6cbcc60de3ae078c722ffca04_PPATfeedback.pdf
 file_size: 90807
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

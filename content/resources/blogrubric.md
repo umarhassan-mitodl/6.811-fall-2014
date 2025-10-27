@@ -4,8 +4,6 @@ description: "Rubric used by course instructors to assess students\u2019 blog po
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/c7ba419eb08246c3ac07ed1e37a5ae7f_BlogRubric.pdf
 file_size: 92377
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

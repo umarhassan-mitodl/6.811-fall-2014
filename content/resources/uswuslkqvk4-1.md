@@ -5,8 +5,6 @@ description: Transcript of a video of an instructor interview on teaching studen
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/a9e1d600ba1d7d4617e1f55d11db584c_UswuSLKQVK4.pdf
 file_size: 15540
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

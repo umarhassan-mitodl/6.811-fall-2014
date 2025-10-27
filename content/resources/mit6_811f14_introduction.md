@@ -5,8 +5,6 @@ description: Lecture presentation with an introduction to the course and informa
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/11494623dc05af5f759a1c118487453a_MIT6_811F14_Introduction.pdf
 file_size: 711463
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

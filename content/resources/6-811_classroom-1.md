@@ -4,8 +4,6 @@ description: Photograph of the classroom used for lecture sessions of the course
 file: /courses/6-811-principles-and-practice-of-assistive-technology-fall-2014/e4826680b2c1fa902103395c8965f4e8_6-811_classroom-1.jpg
 file_size: 60841
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
